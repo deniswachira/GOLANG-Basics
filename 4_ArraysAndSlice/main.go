@@ -30,7 +30,12 @@ func main(){
 
 	//slice range
 	rangeOne := names[1:3]
+	rangeTwo := names[2:] //from index 2 to the end of the array
+	rangeThree := names[:3] //from the start of the array to index 3
 
 	fmt.Println(rangeOne)
+	fmt.Println(rangeTwo)
+	fmt.Println(rangeThree)
+
 
 }
