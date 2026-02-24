@@ -1,18 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "1_Hello_GO",
-			"path": "1_Hello_GO"
-		},
-		{
-			"name": "2_Variables",
-			"path": "2_Variables"
-		},
-		{
-			"path": "3_PrintingAndFormatingString"
-		},
-		{
-			"path": "4_ArraysAndSlice"
+			"path": "."
 		}
 	],
 	"settings": {}
